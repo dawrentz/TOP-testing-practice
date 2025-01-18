@@ -5,7 +5,8 @@
   "description": "https://www.theodinproject.com/lessons/node-path-javascript-testing-practice",
   "main": "main.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "testWatch": "jest --watch *.js"
   },
   "keywords": [],
   "author": "",
